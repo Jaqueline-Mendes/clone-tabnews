@@ -1,2 +1,2 @@
 # clone-tabnews
-Aprendendo programação Felipe 
+Aprendendo programação - Filipe Deschamps 
